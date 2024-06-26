@@ -1,7 +1,7 @@
 Hi 👋 My name is Denis!
 =======================
 
-I study Computer Science @ KIT with a focus on cybersecurity and AI. I'm interested in everything that falls between those lines... And a few other things like plants 🌴 :)
+I study Computer Science @ KIT with a focus on cybersecurity and AI. I'm particularly interested their intersection... And a few other things like plants 🌴 :)
 
 In case you are interested in collaborating, I'm open to interesting projects! Simply reach out the me in some way. 
 
