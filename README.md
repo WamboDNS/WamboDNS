@@ -5,4 +5,4 @@ I study Computer Science @ KIT with a focus on cybersecurity and AI. I'm particu
 
 In case you are interested in collaborating, I'm open to interesting projects! Simply reach out the me in some way. 
 
-✉️  You can contact me at denis\[dot\]wambold\[at\]student.kit.edu
+✉️  You can contact me on [X (aka twitter)](https://x.com/wambosec).
