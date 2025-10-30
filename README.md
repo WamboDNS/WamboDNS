@@ -1,7 +1,7 @@
 Hi 👋 My name is Denis!
 =======================
 
-I study Computer Science @ KIT with a focus on cybersecurity and AI. I'm particularly interested their intersection... And a few other things like plants 🌴 :)
+I study compsci @ KIT with a focus on AI and cybersecurity. I'm particularly interested their intersection... And a few other things like plants 🌴 :)
 
 Currently, I'm visiting CMU to do some research there. Hit me up if you're around Pittsburgh and want to meet up!
 
